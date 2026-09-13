@@ -54,7 +54,7 @@ Production-oriented backend for the **Lumind** productivity platform. It reflect
 - Deepening **Java** and **Spring Boot** backend development
 - Improving API design, automated testing, SQL, Docker, and CI/CD
 - Continuing to improve **English** for professional software development
-- Exploring **AI integrations** as a complementary backend capability (not my primary role label)
+- Exploring **AI integrations** as a complementary backend capability
 
 ---
 
